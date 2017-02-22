@@ -1,0 +1,16 @@
+{
+  "name": "whoami-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "request-ip": "^1.2.3",
+    "ua-parser-js": "^0.7.12",
+    "useragent": "^2.1.12"
+  }
+}
